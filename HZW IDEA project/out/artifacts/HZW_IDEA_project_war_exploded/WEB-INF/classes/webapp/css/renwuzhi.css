@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+.clearfix{
+	clear: both;
+	
+}
+.hjys{
+  background-color:#bbb;
+  float: left;
+  width: 32%;
+  margin: 10px;
+  height: 300px;
+  text-align:center 
+  
+  
+}
+.hjdj {
+  background-color:#bbb;
+  float: left;
+  width: 32%;
+  margin: 10px;
+  height: 300px; 
+  text-align:center ;
+}
+
+.hjzj{
+  background-color:#bbb;
+  float: left;
+  width: 32%;
+  margin: 10px;
+  height: 300px;
+  text-align:center 
+  
+}
+
+
+
+.wenzi{
+  background-color:#bbb;
+  clear: both;
+  width: 100%;
+  margin: 10px;
+ text-align:center;
+}
+
+	
+.wenzi1{
+  background-color:#bbb;
+  clear: both;
+  width: 100%;
+  margin: 10px;
+  
+  }

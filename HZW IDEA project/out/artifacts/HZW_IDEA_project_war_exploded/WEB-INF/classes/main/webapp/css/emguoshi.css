@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+.clearfix{
+	clear: both;
+	}
+	
+.btwenzi{
+  background-color:#bbb;
+  clear: both;
+  width: 100%;
+  margin: 10px;
+  text-align:center ;
+}
+
+.emgszrx1{
+  background-color:#bbb;
+  float: left;
+  width: 32%;
+  margin: 10px;
+  height: 300px;
+  text-align:center ;
+  }
